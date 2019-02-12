@@ -11,5 +11,6 @@ public class App
         System.out.println( "Hello Jason!" );
 
         System.out.println( "Hello Mikhail, Welcome to Git!");
+        System.out.println( "Hello Ryan, Welcome to Git!");
     }
 }
