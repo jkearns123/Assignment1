@@ -1,4 +1,4 @@
-package com.adp3.213323532;
+
 
 /**
  * Hello world!
@@ -12,5 +12,6 @@ public class App
 
         System.out.println( "Hello Mikhail, Welcome to Git!");
         System.out.println( "Hello Ryan, Welcome to Git!");
+        System.out.println("Hi All, Jade Kearns Here i finally did it");
     }
 }
