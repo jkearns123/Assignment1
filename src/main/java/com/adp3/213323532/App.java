@@ -10,6 +10,6 @@ public class App
     {
         System.out.println( "Hello Jason!" );
 
-        System.out.println( "Hello Mikhail!");
+        System.out.println( "Hello Mikhail, Welcome to Git!");
     }
 }
